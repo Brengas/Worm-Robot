@@ -2,6 +2,8 @@
 
 This repository contains the design, code, and documentation for a 3D-printed worm robot developed for a university robotics competition. The robot uses servo motors and an Arduino Nano to achieve autonomous straight-line movement.
 
+### [YouTube Demonstration](https://youtube.com/shorts/ToYCTjIG7vk)
+
 ## Project Overview
 - **Objective**: To design and build a worm-like robot capable of autonomous straight-line movement.  
 - **Technologies Used**: Arduino Nano, servo motors, 3D printing, CAD design.  
