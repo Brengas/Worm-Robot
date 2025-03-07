@@ -15,6 +15,7 @@ This repository contains the design, code, and documentation for a 3D-printed wo
 ## CAD design
 <p align="center">
 <img src="https://raw.githubusercontent.com/Brengas/Worm-Robot/main/images/worm_assembly.jpg" height="70%" width="70%" alt="CAD design Fusion 360"/>
+  
 ## How It Works
 1. The robot’s movement is achieved by sequentially actuating its servo motors to create a wave-like motion.  
 2. The Arduino Nano controls the timing and sequence of servo movements to ensure smooth locomotion.  
